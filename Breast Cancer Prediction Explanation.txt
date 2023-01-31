@@ -7,7 +7,7 @@ cancer for any new data is classified into benign or malignant.
 
 Dataset:
 	The dataset is imported from sklearn dataset. With 570 instances and 32 features,
-this dataset provides the sufficient data too classify any other new data about cancer into 
+this dataset provides the sufficient data to classify any other new data about cancer into 
 benign or malignant. The data that is imported isn't used directly, instead, the data imported
 is loaded into a data frame using DataFrame() function in pandas library.
 
