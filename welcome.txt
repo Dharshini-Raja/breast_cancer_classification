@@ -1,6 +1,0 @@
-hello, this is nano
-<<<<<<< HEAD
-this is for branch_1
-=======
-this is for branch_2
->>>>>>> branch_2
