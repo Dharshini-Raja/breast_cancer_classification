@@ -1,0 +1,16 @@
+From 60f5732d335234450ba4da9d1283c4511deb3e0a Mon Sep 17 00:00:00 2001
+From: Dharshini-Raja <dharshiniraja2002@gmail.com>
+Date: Thu, 15 Jun 2023 09:22:04 +0530
+Subject: [PATCH 3/3] "delete commit"
+
+---
+ welcome.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 welcome.txt
+
+diff --git a/welcome.txt b/welcome.txt
+deleted file mode 100644
+index e69de29..0000000
+-- 
+2.34.1
+
